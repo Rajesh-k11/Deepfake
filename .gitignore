@@ -1,1 +1,11 @@
 /venv
+/.venv
+/__pycache__/
+*.pyc
+/data/
+/data_small/
+/temp_video.mp4
+/extracted-deepfake-frames.zip
+/models/*.metrics.json
+/models/*.keras
+/models/*.h5
