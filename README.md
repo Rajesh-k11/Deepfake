@@ -34,8 +34,8 @@ deepfake-detection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ParivalavanIT/deepfake-detection.git
-   cd deepfake-detection
+   git clone https://github.com/Rajesh-k11/Deepfake.git
+   cd Deepfake
    ```
 2. Create and activate a virtual environment:
    ```bash
@@ -204,6 +204,6 @@ If you want to go beyond the included baseline trainer, the next upgrades with t
 - threshold calibration and validation reporting per dataset
 - hard-negative mining for videos that look real but are fake
 
-## Contact
+## Maintainer
 
-Original repository contact: `parivalavan2345@gmail.com`
+GitHub: `https://github.com/Rajesh-k11`
